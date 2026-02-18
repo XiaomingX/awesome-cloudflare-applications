@@ -159,6 +159,7 @@ Cloudflare 的基础设施建立在庞大的全球网络之上，利用 **Anycas
 | --- | --- | --- | --- |
 | [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | **推荐**。基于 Workers 的无服务器站点监控工具，支持多地理位置检查，可替代 UptimeRobot。 |  | 维护中 |
 | [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 经典的本地测速工具，用于筛选访问速度最快的 CF IP 地址（优选 IP）。 |  | 维护中 |
+| [DNS Propagation Checker](https://github.com/brancogao/dns-propagation-checker) | DNS 传播检查工具，支持 10+ 全球 DNS 服务器，可视化传播进度。 | [Demo](https://dns-propagation-checker.autocompany.workers.dev) | 维护中 |
 
 ## 📚 推荐阅读与教程
 
