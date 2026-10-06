@@ -152,6 +152,7 @@ Cloudflare 的基础设施建立在庞大的全球网络之上，利用 **Anycas
 | [Astro](https://astro.build/) | **新热门**。加入 Cloudflare 大家庭的现代 Web 框架，完美适配 Pages 和边缘缓存。 |  | 官方 |
 | [PartyKit](https://github.com/partykit/partykit) | **实时协作**。专为构建多人实时应用设计的平台，基于 Durable Objects。 |  | 热门 |
 | [Workerd](https://github.com/cloudflare/workerd) | **硬核**。Cloudflare Workers 的开源运行时，适合想要深入了解底层或自托管的开发者。 |  | 官方 |
+| [EdgeSSH](https://github.com/aozorae/EdgeSSH) | 部署在 Cloudflare Workers 上的自托管单管理员 SSH 工作台，使用 Durable Objects、D1 与 TCP Sockets，支持浏览器终端、SFTP 文件管理、进程监控和命令片段。 | <https://edgessh-docs.pages.dev/> | 维护中 |
 
 ## 📈 监控与测速
 
