@@ -30,6 +30,7 @@ Cloudflare 的基础设施建立在庞大的全球网络之上，利用 **Anycas
 | [Planning Poker](https://github.com/briangershon/planning-poker) | 开源的敏捷开发估算工具，使用 Durable Objects 保持状态同步。 |  | 维护中 |
 | [edge-yacht](https://github.com/jsuper/edge-yacht) | 基于 Workers 的多人骰子游戏，展示了轻量级游戏后端的可能性。 |  | 维护中 |
 | [Durable World](https://github.com/cloudflare/durable-world) | **官方示例**。一个 3D 多人虚拟世界，展示了边缘状态管理的强大。 |  | 官方 |
+| [Trick or Take](https://github.com/zicojiao/trick-or-take) | 开源多人万圣节糖果争夺网页游戏，基于 Workers + D1 与 Agora WebRTC 实时语音。 | [trickortake.com](https://trickortake.com/) | 活跃 |
 
 ## �🖼️ 图床与媒体处理
 
